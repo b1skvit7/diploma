@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Вітрильний спорт",
+    "image": "img/card-act.png",
+    "price": 5000
+  },
+  {
+    "id": 2,
+    "name": "Скелелазіння",
+    "image": "img/card-act1.png",
+    "price": 1200
+  },
+  {
+    "id": 3,
+    "name": "Катання на лижах",
+    "image": "img/card-act2.png",
+    "price": 5000
+  },
+  {
+    "id": 4,
+    "name": "Піші прогулянки",
+    "image": "img/card-act3.png",
+    "price": 500
+  },
+  {
+    "id": 5,
+    "name": "Зоопарки та природні парки",
+    "image": "img/card-act4.jpg",
+    "price": 600
+  },
+  {
+    "id": 6,
+    "name": "Дайвінг",
+    "image": "img/card-act5.png",
+    "price": 1500
+  }
+]
