@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Готель Monastero Santa Rosa",
+    "location": "Салерно, Італія",
+    "stars": 5,
+    "image": "img/card-hotel.png",
+    "price": 8500,
+    "activities": [1, 5, 6]
+  },
+  {
+    "id": 2,
+    "name": "Гранд Готель Тремеццо",
+    "location": "Озеро Комо, Італія",
+    "stars": 3,
+    "image": "img/card-hotel1.png",
+    "price": 9000,
+    "activities": [1, 5, 6]
+  },
+  {
+    "id": 3,
+    "name": "Комплекс Буковель Шале-6",
+    "location": "Поляниця, Україна",
+    "stars": 4,
+    "image": "img/card-hotel2.png",
+    "price": 4500,
+    "activities": [2, 3, 4]
+  },
+  {
+    "id": 4,
+    "name": "АКА Беверлі Хіллз",
+    "location": "Лос-Анджелес, США",
+    "stars": 3,
+    "image": "img/card-hotel3.png",
+    "price": 7300,
+    "activities": [1, 6]
+  },
+  {
+    "id": 5,
+    "name": "Готель Резидент",
+    "location": "Марсель, Італія",
+    "stars": 2,
+    "image": "img/card-hotel4.jpg",
+    "price": 8900,
+    "activities": [1, 5]
+  },
+  {
+    "id": 6,
+    "name": "Готель Redisson",
+    "location": "Маямі, США",
+    "stars": 3,
+    "image": "img/card-hotel5.jpg",
+    "price": 9200,
+    "activities": [1, 4, 6]
+  },
+  {
+    "id": 7,
+    "name": "Готель Олімп",
+    "location": "Стамбул, Туреччина",
+    "stars": 5,
+    "image": "img/card-hotel6.jpg",
+    "price": 6800,
+    "activities": [1, 5, 6]
+  },
+  {
+    "id": 8,
+    "name": "Готель Paradise",
+    "location": "Каліфорнія, США",
+    "stars": 4,
+    "image": "img/card-hotel7.jpg",
+    "price": 7900,
+    "activities": [1, 4, 6]
+  }
+]
